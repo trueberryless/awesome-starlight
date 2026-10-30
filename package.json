@@ -3,13 +3,13 @@
   "version": "0.1.0",
   "description": "Automatically curated list of awesome Starlight resources",
   "type": "module",
-  "homepage": "https://github.com/trueberryless-org/awesome-starlight",
+  "homepage": "https://github.com/trueberryless/awesome-starlight",
   "bugs": {
-    "url": "https://github.com/trueberryless-org/awesome-starlight/issues"
+    "url": "https://github.com/trueberryless/awesome-starlight/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/trueberryless-org/awesome-starlight.git"
+    "url": "https://github.com/trueberryless/awesome-starlight.git"
   },
   "scripts": {
     "update": "node scripts/update-list.js",

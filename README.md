@@ -95,8 +95,8 @@
 - [starlight-codeblocks](https://ewels.github.io/starlight-codeblocks/) - Add focus, annotations, API links, runnable examples, and more to Expressive Code blocks.
 - [starlight-compass](https://starlight-compass.netlify.app) - Starlight plugin to review your documentation with typed AI decisions.
 - [starlight-contextual-menu](https://github.com/corsfix/starlight-contextual-menu) - Add a contextual menu to your Starlight documentation.
-- [starlight-contributor-list](https://github.com/trueberryless-org/starlight-contributor-list) - Display a list of all contributors to your project.
-- [starlight-cooler-credit](https://github.com/trueberryless-org/starlight-cooler-credit) - Add a nice credit to Starlight or Astro at the bottom of the table of contents.
+- [starlight-contributor-list](https://github.com/trueberryless/astro-contributors) - Display a list of all contributors to your project.
+- [starlight-cooler-credit](https://github.com/trueberryless/starlight-cooler-credit) - Add a nice credit to Starlight or Astro at the bottom of the table of contents.
 - [starlight-cooler-credit](https://starlight-cooler-credit.netlify.app) - Starlight plugin to add a nice credit to Starlight, Astro, or any other project at the bottom of the table of contents.
 - [starlight-copy-button](https://github.com/dionysuzx/starlight-copy-button) - Copy full docs page Markdown with a polished button in the page title.
 - [starlight-custom-navigation](https://frostybee.github.io/starlight-custom-navigation/) - Add side navigation strips, floating buttons, keyboard shortcuts, and swipe gestures for moving between pages.
@@ -145,23 +145,23 @@
 - [starlight-plugin-icons](https://github.com/Rettend/starlight-plugin-icons) - Add icons to Astro Starlight: sidebar, codeblocks, filetree.
 - [@dagilleland/starlight-plugin-layouts](https://gilleland.ca/starlight-layouts/tutorial/starlight-plugin/) - Starlight plugin that bundles all four Starlight Layouts packages and registers their component overrides automatically — no override files to create.
 - [@hideoo/starlight-plugins-docs-components](https://github.com/HiDeoo/starlight-plugins-docs-components) - Set of opinionated Starlight components used in HiDeoo's Starlight plugins documentations.
-- [@trueberryless-org/starlight-plugins-docs-components](https://starlight-plugins-docs-components.netlify.app) - Starlight plugin to add a set of opinionated components and resource pages used in trueberryless-org's Starlight plugins documentations.
+- [@trueberryless-org/starlight-plugins-docs-components](https://starlight-plugins-docs-components.netlify.app) - Starlight plugin to add a set of opinionated components and resource pages used in trueberryless's Starlight plugins documentations.
 - [starlight-pydocs](https://github.com/ewels/starlight-pydocs) - Automated Python API docs for Astro and Starlight, using static analysis.
 - [starlight-pydocs](https://ewels.github.io/starlight-pydocs) - Python API reference documentation for Astro and Starlight, extracted with Griffe.
 - [starlight-quiz](https://github.com/ewels/starlight-quiz) - Interactive quizzes for Astro and Starlight, authored in markdown with full progress tracking.
 - [starlight-quiz](https://ewels.github.io/starlight-quiz) - Interactive quizzes for Astro and Starlight, authored in markdown with full progress tracking.
-- [starlight-recipes](https://github.com/trueberryless-org/starlight-recipes/) - Starlight plugin to create a recipe website.
+- [starlight-recipes](https://github.com/trueberryless/starlight-recipes/) - Starlight plugin to create a recipe website.
 - [starlight-recipes](https://starlight-recipes.netlify.app) - Starlight plugin to create a recipe website.
-- [starlight-save-file-component](https://github.com/trueberryless-org/starlight-save-file-component) - Quickly display a link to some download asset on your Starlight site.
+- [starlight-save-file-component](https://github.com/trueberryless/starlight-save-file-component) - Quickly display a link to some download asset on your Starlight site.
 - [starlight-save-file-component](https://starlight-save-file-component.netlify.app) - Starlight component to quickly display a link to some download asset on your Starlight site.
 - [starlight-scroll-to-top](https://github.com/frostybee/starlight-scroll-to-top) - Add a scroll-to-top button to your documentation site.
 - [starlight-seo](https://github.com/kaktaknet/starlight-seo) - Add search-ready titles, a connected JSON-LD graph, complete Open Graph tags, and a build-time SEO audit.
 - [starlight-showcases](https://github.com/HiDeoo/starlight-showcases) - Set of Starlight components to author showcase pages.
 - [starlight-sidebar](https://github.com/zakarialaoui10/starlight-sidebar#readme) - A lightweight utility for building deeply nested, multilingual Starlight sidebars from a simple, declarative structure.
-- [starlight-sidebar-swipe](https://github.com/trueberryless-org/starlight-sidebar-swipe/) - Make the left sidebar swipeable on mobile devices like Discord Mobile.
+- [starlight-sidebar-swipe](https://github.com/trueberryless/starlight-sidebar-swipe/) - Make the left sidebar swipeable on mobile devices like Discord Mobile.
 - [starlight-sidebar-swipe](https://starlight-sidebar-swipe.netlify.app) - Starlight plugin to make the sidebar swipeable on mobile devices like Discord Mobile.
 - [starlight-sidebar-topics](https://github.com/HiDeoo/starlight-sidebar-topics) - Split your documentation into different sections, each with its own sidebar.
-- [starlight-sidebar-topics-dropdown](https://github.com/trueberryless-org/starlight-sidebar-topics-dropdown) - Split your docs page into multiple subpages and switch between them with a dropdown menu in the sidebar.
+- [starlight-sidebar-topics-dropdown](https://github.com/trueberryless/starlight-sidebar-topics-dropdown) - Split your docs page into multiple subpages and switch between them with a dropdown menu in the sidebar.
 - [starlight-sidebar-topics-dropdown](https://starlight-sidebar-topics-dropdown.netlify.app) - Starlight component to display the Starlight Sidebar Topics plugin topic list as a dropdown menu.
 - [starlight-site-graph](https://github.com/Fevol/starlight-site-graph) - Add an interactive site graph inside your page’s sidebar.
 - [starlight-skills](https://github.com/mew-ton/starlight-skills#readme) - A Starlight plugin that turns your documentation into AI-installable skills
@@ -171,7 +171,7 @@
 - [starlight-telescope](https://github.com/frostybee/starlight-telescope) - Quickly navigate to any page in your Starlight docs with fuzzy search and keyboard-first navigation.
 - [starlight-to-pdf](https://github.com/Linkerin/starlight-to-pdf) - A CLI tool to convert Starlight websites into PDF files.
 - [starlight-to-skills](https://github.com/HiDeoo/starlight-to-skills) - Turn Starlight documentation pages into reviewed, discoverable, and up-to-date agent skills.
-- [starlight-toc-overview-customizer](https://github.com/trueberryless-org/starlight-toc-overview-customizer) - Tweak Starlight’s table of contents with customizable overview title.
+- [starlight-toc-overview-customizer](https://github.com/trueberryless/starlight-toc-overview-customizer) - Tweak Starlight’s table of contents with customizable overview title.
 - [starlight-typedoc](https://github.com/HiDeoo/starlight-typedoc) - Generate Starlight pages from TypeScript using TypeDoc.
 - [starlight-ui-tweaks](https://github.com/dlcastillop/starlight-ui-tweaks) - Extends core UI components with custom navigation links, ads, marketing footers, and a cleaner theme toggle.
 - [starlight-versions](https://github.com/HiDeoo/starlight-versions) - Version your Starlight documentation pages.
