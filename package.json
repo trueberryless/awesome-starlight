@@ -23,7 +23,7 @@
     "awesome-list"
   ],
   "license": "MIT",
-  "author": "trueberryless <trueberryless@gmail.com> (https://trueberryless.org)",
+  "author": "trueberryless <trueberryless@gmail.com> (https://felixs.dev)",
   "dependencies": {
     "@anthropic-ai/sdk": "^0.33.1",
     "js-yaml": "^4.1.1",
